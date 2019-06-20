@@ -1,0 +1,13 @@
+!SESSION 2019-05-31 15:43:54.906 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /media/felipe/01D1830507949C30/Cursos/Curso de Web JS -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 15:44:23.535
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-31 15:44:33.939
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
